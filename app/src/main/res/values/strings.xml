@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DXC Login App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginPage">Login Page</string>
+    <string name="registrationPage">Registration Page</string>
+    <string name="Register">Register</string>
+    <string name="click_here_to_login"><u>Click here to login</u></string>
+    <string name="click_here_for_registration"><u>Click here for Registration</u></string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="user_page">User Page</string>
+</resources>

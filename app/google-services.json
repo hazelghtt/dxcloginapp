@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948302953837",
+    "project_id": "dxc-login-app-7a318",
+    "storage_bucket": "dxc-login-app-7a318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948302953837:android:6f90d49790b78cf36b6e64",
+        "android_client_info": {
+          "package_name": "com.example.dxcloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZU7LgahJWwhQErOn-wqhHRDpBgdHxg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
